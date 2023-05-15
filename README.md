@@ -1,0 +1,2 @@
+# Haskell practice
+ learning haskell
